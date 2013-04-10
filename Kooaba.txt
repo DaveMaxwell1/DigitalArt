@@ -1,0 +1,33 @@
+Metadata
+
+{ "Name":"" , "Artist":"", "URL":"", "Info":"", "redirect_url":"http://digitalart.azurewebsites.net/.htm" }
+
+
+      the_hand.htm - The Hand (Imogen Stuart) : Anne's Office
+
+      paul_doran_untitled.htm - Paul Doran (Untitled - Winner of the AIB Prize 2005) Anne's Office
+
+      paul_doran_untitled_2.htm - Paul Doran 2 (Untitled - Winner of the AIB Prize 2005) Anne's Office
+
+      presence_f_64.htm - Louis Le Brocquy (Presence F.64) Anne's Office
+
+      sunworshipper.htm - Sunworshipper (Dick Joynt) 4th Floor
+
+      wall_of_light_summer.htm - Wall of Light, Summer (Sean Scully) 4th Floor
+
+      a_sheet_of_clouds.htm - A Sheet of Clouds (Gerard Dillon) David's Office -
+
+      the_messenger.htm - The Messenger (Dick Joynt) David's Office
+
+      paddy_white.htm - Paddy White (John Doherty) David's Office
+
+
+
+Key ID 
+144b70a7-d06d-44ee-979d-a8781152e513
+
+
+Secret Token
+LGEeeNqFGJ7P41yRrctNoNad2I5rdsq7FsdAO1KC
+
+
